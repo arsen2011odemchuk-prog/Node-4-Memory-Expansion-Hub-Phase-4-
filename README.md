@@ -12,7 +12,11 @@ Node 4 serves as a **dedicated storage node**, expanding cluster memory while ke
 - **Storage:** 1 TB NVMe SSD (primary), optional second SSD via PCIe adapter or USB-to-NVMe  
 - **Cooling:** 2× 120 mm fans powered from Node 1 PSU  
 - **Support Structure:** Fiberglass tubes + single mounting plate  
-- **Power Regulation:** 12 V → 5 V step-down converter for motherboard  
+- **Power Regulation:** 12 V → 5 V step-down converter for motherboard
+  <img width="832" height="595" alt="Знімок екрана 2026-04-01 о 03 37 23" src="https://github.com/user-attachments/assets/7e6cd756-be9b-46b6-95e0-5e0677be166c" />
+<img width="603" height="446" alt="image" src="https://github.com/user-attachments/assets/85b01a6b-04cf-486a-9bc9-50887d63ffaa" />
+<img width="617" height="516" alt="image" src="https://github.com/user-attachments/assets/0687a5da-d7e9-45a9-a806-84a716747146" />
+
 
 ## 🔌 Connections & Wiring
 - **Power:** Node 4 receives 12 V from Node 1 PSU, stepped down to 5 V for the motherboard and SSDs. Fans powered via Node 1 12 V line.  
